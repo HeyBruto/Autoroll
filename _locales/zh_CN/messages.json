@@ -1,0 +1,13 @@
+{
+    "extension_name": {
+        "message": "Autoroll",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "一键展示页面，循环滚动网页",
+        "description": "Description of what the extension does."
+    },
+    "popup_config_hide_all":{
+        "message":"显示滚动按钮"
+    }
+}
